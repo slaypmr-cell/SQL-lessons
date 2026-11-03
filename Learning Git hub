@@ -28,3 +28,32 @@ Activity 4:
 HOW TO: 
   1- click the carrot next to main in the upper left pane. 
  2- select view all branches
+3- from there you can see all the branches, I have made 1 for this file.  
+4- select the branch you want. 
+5: click on the pencil to edit. 
+
+ALternatively when you commit changes it will ask if you want a branch or not. 
+
+Thrid is in the windows terminal
+  I am struggling with this one because I was not able to get the ohmyposh to work, I don't have a json reader and while I can kida read json it must be very formated for me. 
+any way...... in  windows terminal: 
+
+
+What is Windows terminal? 
+https://github.com/microsoft/terminal/blob/main/README.md
+https://learn.microsoft.com/en-us/windows/terminal/
+https://en.windowsnoticias.com/quick-guide-to-Windows-Terminal/
+ A command-line interface (CLI) is an operating system shell that uses alphanumeric characters typed on a keyboard to provide instructions and data to the operating system.
+
+1 Clone your reposictory to your computer ( clone ...)
+2 open the file  (                          cd .. file name)
+3 create branch with (                      git branch ... name )
+4 view branches: (                          git branch --all) 
+5 open or edit your banch with (            git checkout ... name)
+6 upload into git hub  (                    git add ... file)
+7 save the chagnes: (                       git commit --m ( what I did)
+8 send to cloud                             git push --set-upstream  origin (branch name)
+
+
+
+
