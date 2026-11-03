@@ -5,7 +5,12 @@ Sources:  Linkedin learning, Learning Github course.
 Why use git hub: 
   used as an international community of projects and conversations by anyone.
   can be helpful for collaboration
-  can return to past versions as needed. A
+  can return to past versions as needed. 
+
+Files can be accessed in may ways: 
+  - github.com
+  - cloned into VS code-- or other app of choice
+  - on github desktop. 
 
 Activity 1: 
   log in and create a spot 
@@ -38,6 +43,11 @@ Thrid is in the windows terminal
   I am struggling with this one because I was not able to get the ohmyposh to work, I don't have a json reader and while I can kida read json it must be very formated for me. 
 any way...... in  windows terminal: 
 
+Activity 5
+  create a clone with windows terminal
+         this will create a local copy on you computer, that you can edit with VS studie or other app of your choice. 
+          all pushes will need to be assessed int he  "pull requests" tab to compare .
+               leave good notes for yourself and others in the --m
 
 What is Windows terminal? 
 https://github.com/microsoft/terminal/blob/main/README.md
@@ -55,5 +65,14 @@ https://en.windowsnoticias.com/quick-guide-to-Windows-Terminal/
 8 send to cloud                             git push --set-upstream  origin (branch name)
 
 
+Activity 6:
+  using github desktop
+
+clones all the repositiory form the website. 
+
+can create new branches as needed-- write ness branch names 
+fetching allows for consistent syncing. 
+
+REMOTE branches-- branches not on my desktop. 
 
 
